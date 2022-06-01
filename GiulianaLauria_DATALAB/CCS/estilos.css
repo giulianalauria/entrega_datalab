@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+
+  
+
+@font-face {
+    font-family: Inter-SemiBold ;
+    src: url(../tipografias/Inter-SemiBold.ttf);
+font-weight: 90;
+}
+
+@font-face {
+    font-family: Inter-Light;
+    src: url(../tipografias/Inter-Light.ttf);
+    font-weight: 40;
+
+}
+
+h1{
+    font-family: Inter-Semibold;
+    font-size: 6.69em;
+    font-weight: 80;
+    color: #1e1d1d;
+}
+
+a{
+    font-family: Inter-Light;
+    font-size: 3.34em;
+    font-weight: 40;
+    color:#000000;
+    
+}
